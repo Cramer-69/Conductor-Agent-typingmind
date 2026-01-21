@@ -17,7 +17,7 @@ List of open-source [TypingMind extensions](https://docs.typingmind.com/typing-m
 - [Export chats to markdown in a zip file](https://gist.github.com/lzilioli/a8298c8622a69768cec9f872c6bb128c) - by idealparadox
 - [Automatically expose MCP tools as plugins](https://github.com/iamjackg/typingmind-mcp-extension) - by iamjackg
 - [💬 Leave comments on selected text](https://github.com/brzvsk/typingmind-extension-quote) - by brzvsk
-- [Enhance the reliability and reasoning performance of advanced models configured through TypingMind’s custom OpenAI-compatible model settings.](https://github.com/tejasunku/typingmind-reasoning-support/tree/main) - by Teja Sunku
+- [Enhance the reliability and reasoning performance of advanced models configured through TypingMind's custom OpenAI-compatible model settings.](https://github.com/tejasunku/typingmind-reasoning-support/tree/main) - by Teja Sunku
 
 ## Plugins
 
@@ -72,6 +72,7 @@ List of cool [TypingMind plugins](https://docs.typingmind.com/plugins).
   - [Render Plotly](https://github.com/Btran1291/TMPlugin-RenderPlotly) - by Ben Tran
   - [Render Vis Graph](https://cloud.typingmind.com/plugins/p-01JKR37B6HCXF83P6ASK60W7TN) - by Ben Tran
   - [Render Viz Graph](https://github.com/Btran1291/TMPlugin-RenderViz) - by Ben Tran
+  - [Research Badger](https://github.com/wimpysworld/plugin-research-badger) - by Martin Wimpress, relentlessly dig through online sources using Jina AI for web search and content extraction
   - [Stock Lookup](https://cloud.typingmind.com/plugins/p-01JKR2Q2268YFA5J5YKENSGQ4G) - by Ben Tran
   - [Tarot reader](https://cloud.typingmind.com/plugins/p-01JKR2DV5QMXHHEPQXKHSP7Z3W) - by Ben Tran
   - [Tavily extract](https://cloud.typingmind.com/plugins/p-01JKR3BWRS2RJKG4Q4CQCPD5V0) - by Ben Tran
