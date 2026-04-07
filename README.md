@@ -19,6 +19,10 @@ List of open-source [TypingMind extensions](https://docs.typingmind.com/typing-m
 - [💬 Leave comments on selected text](https://github.com/brzvsk/typingmind-extension-quote) - by brzvsk
 - [Enhance the reliability and reasoning performance of advanced models configured through TypingMind’s custom OpenAI-compatible model settings.](https://github.com/tejasunku/typingmind-reasoning-support/tree/main) - by Teja Sunku
 
+## Tools & Utilities
+
+- [ChatGPT2TypingMind](https://github.com/K2daOz/chatgpt2typingmind) - by workbench digital. Migrate all ChatGPT chats, projects & images to TypingMind with a Windows GUI app. Auto-detects projects & Custom GPTs, creates nested folder hierarchies, and hosts images via Cloudflare R2 (free). Supports incremental delta-sync.
+
 ## Plugins
 
 List of cool [TypingMind plugins](https://docs.typingmind.com/plugins).
